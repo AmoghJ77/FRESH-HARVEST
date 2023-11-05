@@ -1,0 +1,19 @@
+{
+  "name": "loginform",
+  "version": "1.0.0",
+  "description": "A simulation of client side e-commerce website with feature as add to cart, proceed for checkout and payment options. It simultes a shopping cart within a website This project is made for the future ready talent internship program using azure services.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express.js": "^1.0.0",
+    "knex": "^3.0.1",
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.3",
+    "pg-promise": "^11.5.4"
+  }
+}
